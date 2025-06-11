@@ -54,7 +54,7 @@ Task By {user.first_name}  ( #{user.id} ) [Link]
 ┠ Status → Downloading
 ┠ Speed → 2MB/s
 ┠ Time → {i}s of 100s ( {100-i}s left )
-┠ Engine → nm3u8dl
+┠ Engine → sonic
 ┠ In Mode → #ytdlp
 ┠ Out Mode → #Leech
 ┖ Stop → /c_{msg.id}
