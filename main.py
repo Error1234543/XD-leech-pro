@@ -9,7 +9,7 @@ from subprocess import run, PIPE
 
 API_ID = 20619533  # 🔁 Replace with your API ID
 API_HASH = "5893568858a096b7373c1970ba05e296"  # 🔁 Replace with your API HASH
-7764590689:AAFc4kG8_8hBRjye9MdsMndgwTfEPisSohE"  # 🔁 Replace with your BOT TOKEN
+BOT_TOKEN = "7764590689:AAFc4kG8_8hBRjye9MdsMndgwTfEPisSohE"  # 🔁 Replace with your BOT TOKEN
 
 OWNER_ID = 7447651332
 ALLOWED_CHAT_ID = -1002432150473
@@ -54,7 +54,7 @@ Task By {user.first_name}  ( #{user.id} ) [Link]
 ┠ Status → Downloading
 ┠ Speed → 2MB/s
 ┠ Time → {i}s of 100s ( {100-i}s left )
-┠ Engine → sonic
+┠ Engine → nm3u8dl
 ┠ In Mode → #ytdlp
 ┠ Out Mode → #Leech
 ┖ Stop → /c_{msg.id}
